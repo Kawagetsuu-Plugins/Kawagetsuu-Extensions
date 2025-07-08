@@ -1,16 +1,19 @@
 ### The Only Repo That Contains Audio Books
+Audio book sources are dead, might fix in the future
 
-[![Discord](https://invidget.switchblade.xyz/cpZ9UQNsKA)](https://discord.gg/cpZ9UQNsKA)
+### License
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
-## Change The Food Emoji
-- [Sweet Potato](/README.yam.md)
-- [Bread](/README.bread.md)
-- [Cheese](/README.cheese.md)
-- [Cucumber](/README.cucumber.md)
-- [Corn](/README.corn.md)
+These extensions are Free: You can use, study, share and modify it at your will. They can be redistributed and/or modified under the terms of the
+[GNU General Public License](https://www.gnu.org/licenses/gpl.html) version 3 or later published by the Free Software Foundation. 
+Please if you fork the repo or use any of the extensions base code and modify, PLEASE PLEASE keep the original authors.
 
-Listen to Audio Books. Add this repository using this shortcode: [rowdycado](https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json)
 
-~Click~ eat the avocado to install it on your phone:
 
-[<img alt="alt_text" width="100px" src="https://discordapp.com/assets/56223cd60f7ec48e13e8a0db94dcc785.svg"/>](https://self-similarity.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json)
+### DMCA
+We hereby issue this notice to inform you that these extensions just function like an ordinary browser (like your browser) that fetch video files from internet,
+and do not violate the provisions of the Digital Millennium Copyright Act (DMCA).
+The Content these extensions may access is not hosted by us or the Cloudstream 3 application but the websites they are browsing in their autonomous mode. It is sole responsibility
+of the user and his/her countries' or states' law. If you think they are violating any intellectual property then please contact the actual file hosts not the owners of this repository or the CloudStream 3 app.
+
+Thank You.

@@ -14,7 +14,7 @@ on:
     paths-ignore:
       - "*.md"
       - "Archived/**"
-      - "Template/**"
+      - "ProviderTemplate/**"
 
 permissions: write-all
 
